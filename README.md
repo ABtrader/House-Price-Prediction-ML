@@ -51,5 +51,3 @@ Kaggle House Prices Dataset
 
 ## Author
 Abtrader
-
-ABtrader
